@@ -1,6 +1,8 @@
-### Clim Share - The climate in images
+### Clim Share
 
-The project tries to read patterns of scenes within an image to obtain data regarding the weather.
+Un conjunto de datos en distintos formatos referente al clima de México
 
-### Tools
-[OpenCV Python](https://opencv-python-tutroals.readthedocs.io)
+### Dataset
+
+#### Xls
+- [Monitor de sequia](http://smn.cna.gob.mx/tools/RESOURCES/Monitor%20de%20Sequia%20en%20Mexico/MunicipiosSequia.xlsx) http://smn.cna.gob.mx Monitor de Sequía en México (MSM)
